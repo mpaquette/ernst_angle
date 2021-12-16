@@ -1,6 +1,6 @@
 # ernst_angle
 
-Ernst Angle Calculator written in the flutter framework (intended for Android).  
+Ernst Angle Calculator written in the flutter framework (intended for Android, apk included in the release).  
 
 The Ernst angle is the flip angle achieving the best "SNR per time unit" for a specific T1 and TR value.  
 
